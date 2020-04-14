@@ -5,7 +5,7 @@ url: http://localhost:4000
 analytics:
   provider: false
 
-comments:
+comments: true
   disqus:
     shortname            : "mmistakes-dev"
 
