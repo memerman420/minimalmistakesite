@@ -6,7 +6,7 @@ var store = [{
         "teaser": null
       },{
         "title": "...",
-        "excerpt":"be me     be me.   in quarantine.   have an idea to start a blog.   spent hours setting it up.   don’t know what to write.   why do I do this to myself.     ","categories": ["sitedocs"],
+        "excerpt":"be me     be me.   in quarantine.   have an idea to start a blog.   spent hours setting it up.   don’t know what to write.   why do I do this to myself.  ","categories": ["sitedocs"],
         "tags": [],
         "url": "http://localhost:4000/minimalmistakesite/sitedocs/post/",
         "teaser": null

@@ -1,6 +1,10 @@
 ---
 layout: posts
 title: An introduction
+sidebar:
+  - title: 
+    image: /images/safety.gif
+author_profile: false
 ---
 Welcome to my blog, my introduction post is relating to how my brother is in fact a huge piece of defacation. Don't you agree?
 
