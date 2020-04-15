@@ -1,7 +1,7 @@
 # main links
 main:
   - title: "Totally legal site's for downloading "
-    url: http://127.0.0.1:4000/minimalmistakesite/sitedocs/sites/
+    url: /sitedocs/sites/
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
