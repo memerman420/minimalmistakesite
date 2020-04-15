@@ -16,4 +16,16 @@ var store = [{
         "tags": [],
         "url": "http://localhost:4000/minimalmistakesite/sitedocs/review/",
         "teaser": null
+      },{
+        "title": "Online School",
+        "excerpt":"be me     Start online school   excitement.jpg   we have a system for something like this so we are “prepared”   It’s not the same   Would rather actually go to school   Surprise.exe   When will this end.exe   Serenity by Kupla  ","categories": ["sitedocs"],
+        "tags": [],
+        "url": "http://localhost:4000/minimalmistakesite/sitedocs/lul/",
+        "teaser": null
+      },{
+        "title": "Sites I use to download",
+        "excerpt":"Movies/T.V shows MoviesFlix Requires a bit of patience(3-5 redirects), but works perfectly fine, downloads fast and the site is updated very frequently. PopcornTime Go on the site, download the application. Set where you you would like to put your downloads. and ignore the warning about the VPN it gives you...","categories": ["sitedocs"],
+        "tags": [],
+        "url": "http://localhost:4000/minimalmistakesite/sitedocs/sites/",
+        "teaser": null
       }]
