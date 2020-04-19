@@ -28,4 +28,10 @@ var store = [{
         "tags": [],
         "url": "http://localhost:4000/minimalmistakesite/sitedocs/sites/",
         "teaser": null
+      },{
+        "title": "We gaining",
+        "excerpt":"We gaining weight be me stuck inside like everyone else family starts cooking all sorts of foods much taste, very sublime at least something good is coming out of this but..but-Im gaining weight I’m underweight so it’s all good but it could get out of hand very quickly good thing...","categories": ["sitedocs"],
+        "tags": [],
+        "url": "http://localhost:4000/minimalmistakesite/sitedocs/food/",
+        "teaser": null
       }]
