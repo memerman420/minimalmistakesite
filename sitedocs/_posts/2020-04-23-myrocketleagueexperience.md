@@ -2,7 +2,7 @@
 layout: posts
 title: My rocket league experience
 sidebar:
-  - title: fhjdklsjhflks
+  - title: null
 author_profile: false
 published: true
 ---
