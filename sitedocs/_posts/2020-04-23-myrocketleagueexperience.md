@@ -5,5 +5,7 @@ sidebar:
   - title: null
 author_profile: false
 published: true
+classes: wide
+auth_profile: false
 ---
-Nothing here. In Progres.......
+
